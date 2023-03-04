@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ll_users_list"
+        android:enabled="true"
+        android:icon="@drawable/ic_users_list"
+        android:title="@string/random_users"/>
+    <item
+        android:id="@+id/ll_saved_users_list"
+        android:enabled="true"
+        android:icon="@drawable/ic_saved"
+        android:title="@string/saved_users"/>
+</menu>
